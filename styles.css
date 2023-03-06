@@ -732,10 +732,17 @@ footer span a:hover{
     }
 }
 
-@media (max-width:362px)
+@media (max-width:380px)
 {
     .about .about-content .right .text,
     .skills .skills-content .left .text{
         font-size: 18px;
+    }
+}
+@media (max-width:380px)
+{
+    .about .about-content .right .text,
+    .skills .skills-content .left .text{
+        font-size: 17px;
     }
 }
