@@ -731,3 +731,11 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+@media (max-width:362px)
+{
+    .about .about-content .right .text,
+    .skills .skills-content .left .text{
+        font-size: 18px;
+    }
+}
